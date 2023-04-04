@@ -1,5 +1,5 @@
 # Titanic - Machine Learning from Disaster  
-Decision tree and Random forest classifiers
+## Decision tree and Random forest classifiers
 
 Check out my code below on kaggle.com!
 
